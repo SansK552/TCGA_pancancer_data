@@ -1,0 +1,6 @@
+,type,master_regulator_pair
+0,activator,ZEB1;RFX3
+1,activator,ZEB1;MEF2A
+2,activator,ZEB1;CLOCK
+3,activator,POU3F3;EMX2
+4,repressor,EBF1;NFATC4

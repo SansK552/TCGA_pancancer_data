@@ -1,0 +1,5 @@
+,type,master_regulator_pair
+0,activator,SNAI2;CEBPD
+1,repressor,HNF4A;HNF1B
+2,repressor,HNF4A;HNF1A
+3,repressor,HNF1B;HNF4A

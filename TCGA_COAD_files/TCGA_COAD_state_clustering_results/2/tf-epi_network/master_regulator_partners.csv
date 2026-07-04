@@ -1,0 +1,6 @@
+,type,master_regulator_pair
+0,activator,MYC;HSF1
+1,activator,MYC;CEBPA
+2,activator,MAZ;CNOT3
+3,repressor,CREB1;REL
+4,repressor,MEIS2;NFATC1

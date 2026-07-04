@@ -1,0 +1,5 @@
+,type,master_regulator_pair
+0,activator,REL;NFKB1
+1,activator,REL;STAT1
+2,activator,TEAD1;ZFX
+3,activator,TEAD1;STAT1
