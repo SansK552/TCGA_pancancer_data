@@ -1,0 +1,11 @@
+,type,master_regulator_pair
+0,activator,TBX5;MEIS1
+1,activator,TP63;HOXD10
+2,activator,TP63;SOX2
+3,activator,HOXD9;HOXD10
+4,activator,HOXD9;NFATC4
+5,activator,MSC;FGF9
+6,activator,MSC;IRF4
+7,activator,CEBPB;HOXD11
+8,activator,CEBPB;RUNX1
+9,repressor,IKZF2;SOX2

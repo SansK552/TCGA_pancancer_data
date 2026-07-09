@@ -1,0 +1,5 @@
+,type,master_regulator_pair
+0,activator,ATF7;BDP1
+1,activator,PBX1;MEIS1
+2,activator,PBX1;MEIS2
+3,activator,PBX1;ARID5B

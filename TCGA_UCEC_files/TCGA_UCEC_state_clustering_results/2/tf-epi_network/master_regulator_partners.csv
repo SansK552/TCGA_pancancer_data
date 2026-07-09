@@ -1,0 +1,6 @@
+,type,master_regulator_pair
+0,activator,CREB1;REL
+1,activator,CREB1;CDC5L
+2,repressor,RARA;JUN
+3,repressor,RARA;EMX2
+4,repressor,RARA;TCF7

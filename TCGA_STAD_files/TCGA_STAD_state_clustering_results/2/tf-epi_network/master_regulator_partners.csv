@@ -1,0 +1,9 @@
+,type,master_regulator_pair
+0,activator,CREB1;REL
+1,activator,KLF12;SP4
+2,activator,GFI1;STAT1
+3,activator,GFI1;ETS1
+4,activator,GFI1;FLI1
+5,repressor,DBP;ERF
+6,repressor,DBP;JDP2
+7,repressor,SOX12;POU2F1

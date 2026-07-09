@@ -1,0 +1,8 @@
+,type,master_regulator_pair
+0,activator,IKZF2;FOXA1
+1,activator,IKZF2;SOX4
+2,activator,NR4A2;REL
+3,activator,FOXA1;FOXQ1
+4,activator,FOXA1;IKZF2
+5,activator,EHF;SOX13
+6,activator,STAT1;IRF8

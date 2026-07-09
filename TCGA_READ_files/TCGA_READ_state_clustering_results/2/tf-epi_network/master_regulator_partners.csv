@@ -1,0 +1,5 @@
+,type,master_regulator_pair
+0,activator,CREB1;REL
+1,activator,CREB1;CDC5L
+2,activator,FOXP1;IKZF2
+3,activator,REST;ZNF148

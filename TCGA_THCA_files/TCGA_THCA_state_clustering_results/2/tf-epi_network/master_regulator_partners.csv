@@ -1,0 +1,5 @@
+,type,master_regulator_pair
+0,activator,RUNX1;ELF4
+1,activator,RUNX1;SOX4
+2,activator,RUNX1;RUNX2
+3,repressor,NFIA;PEBP1

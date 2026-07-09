@@ -1,0 +1,4 @@
+,type,master_regulator_pair
+0,activator,EBF1;OSR2
+1,activator,HOXA11;HOXA9
+2,repressor,TRAF4;HMGA1
