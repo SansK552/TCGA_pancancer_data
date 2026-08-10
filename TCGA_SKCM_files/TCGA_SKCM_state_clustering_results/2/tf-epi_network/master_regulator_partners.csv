@@ -1,0 +1,5 @@
+,type,master_regulator_pair
+0,activator,ZFX;ZNF148
+1,activator,REL;IKZF3
+2,repressor,GSC;RXRA
+3,repressor,DBP;ERF

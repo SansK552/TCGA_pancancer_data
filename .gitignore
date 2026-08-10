@@ -9,3 +9,4 @@ checkpoint.pkl
 *.pyc
 __pycache__/
 .DS_Store
+**/dask-worker-space/
