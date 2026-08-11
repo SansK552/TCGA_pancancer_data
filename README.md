@@ -115,7 +115,7 @@ This project builds on the **gbmMINER** causal network framework and the **pySCE
 
 ### Author
 
-**Sanskruti Krishnapurkar** — B.Tech Biotechnology, IIT Delhi (Dept. of Biochemical Engineering & Biotechnology)
+**Sanskruti Krishnapurkar** - B.Tech Biotechnology, IIT Delhi (Dept. of Biochemical Engineering & Biotechnology)
 Done as part of undergraduate research work in computational cancer genomics.
 
 ---
